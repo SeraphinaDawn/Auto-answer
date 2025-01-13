@@ -1,6 +1,6 @@
 class AutoAnswerBot {
   constructor() {
-    this.API_KEY = ""; // 替换为你的 GLM-4 API Key
+    this.API_KEY = "827cf2d9642847ed9e30b7f4a5748e11.1MYD3qKO3HYfr0iM"; // 替换为你的 GLM-4 API Key
     this.API_URL = "https://open.bigmodel.cn/api/paas/v4/chat/completions"; // GLM-4 的 API URL
   }
 
